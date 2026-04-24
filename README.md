@@ -65,7 +65,6 @@ fun_fact: "I turn coffee ☕ into clean, working code."
 **Testing & QA**
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 </div>
 
