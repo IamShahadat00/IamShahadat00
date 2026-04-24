@@ -80,8 +80,8 @@ fun_fact: "I turn coffee ☕ into clean, working code."
 | [MediQuick ](https://github.com/IamShahadat00/MediQuick-) | Pharmacy management system & medical services platform | PHP |
 | [ZeroBin ](https://github.com/IamShahadat00/Software-Quality-Assurance-and-Testing) | Smart Waste Management System with quality assurance testing | SQA |
 | [TripTip ](https://github.com/IamShahadat00/TripTip) | Hotel management system with full booking workflow | C# |
-| [User mangement App ]((https://github.com/IamShahadat00/UserManagementApp)) |User Management web Aplication (Admin) panel| .NET |
-| [BuyWeb ]((https://github.com/IamShahadat00/BuyWeb)) | E-commerce Store | .NET Core MVC |
+| [User mangement App ](https://github.com/IamShahadat00/UserManagementApp) |User Management web Aplication (Admin) panel| .NET |
+| [BuyWeb ](https://github.com/IamShahadat00/BuyWeb) | E-commerce Store | .NET Core MVC |
 
 </div>
 
