@@ -21,6 +21,7 @@
 
 ```yaml
 name: Shahadat Hossain Sakib
+University : American International University-Bangladesh
 location: Bangladesh 🇧🇩
 timezone: UTC +06:00
 
@@ -28,7 +29,7 @@ currently:
   - 🔭 Working on full-stack web applications
   - 🌱 Expanding skills in modern web technologies
   - 👯 Looking to collaborate on open-source projects
-  - 💬 Ask me about PHP, C#, JavaScript, or SQA
+  - 💬 Ask me about C#, JavaScript, or SQA
 
 interests:
   - Software Development
@@ -76,9 +77,11 @@ fun_fact: "I turn coffee ☕ into clean, working code."
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [💊 MediQuick](https://github.com/IamShahadat00/MediQuick-) | Pharmacy management system & medical services platform | PHP |
-| [♻️ ZeroBin – SQA](https://github.com/IamShahadat00/Software-Quality-Assurance-and-Testing) | Smart Waste Management System with quality assurance testing | SQA |
-| [🏨 TripTip](https://github.com/IamShahadat00/TripTip) | Hotel management system with full booking workflow | C# |
+| [MediQuick ](https://github.com/IamShahadat00/MediQuick-) | Pharmacy management system & medical services platform | PHP |
+| [ZeroBin ](https://github.com/IamShahadat00/Software-Quality-Assurance-and-Testing) | Smart Waste Management System with quality assurance testing | SQA |
+| [TripTip ](https://github.com/IamShahadat00/TripTip) | Hotel management system with full booking workflow | C# |
+| [User mangement App ]([https://github.com/IamShahadat00/TripTip](https://github.com/IamShahadat00/UserManagementApp)) |User Management web Aplication (Admin) panel| .NET |
+| [BuyWeb ]((https://github.com/IamShahadat00/BuyWeb)) | E-commerce Store | .NET Core MVC |
 
 </div>
 
