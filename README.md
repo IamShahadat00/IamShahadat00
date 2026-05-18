@@ -55,14 +55,11 @@ fun_fact: "I turn coffee ☕ into clean, working code."
 
 **Frameworks & Tools**
 
-![React Logo](https://react.dev)
-![Node.js Logo](https://nodejs.org)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MongoDB Logo](https://mongodb.com)
 
 
 **Testing & QA**
