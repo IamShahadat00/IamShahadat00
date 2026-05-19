@@ -20,10 +20,10 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Shahadat Hossain Sakib
+Name: Shahadat Hossain Sakib
 University : American International University-Bangladesh
-location: Bangladesh 🇧🇩
-timezone: UTC +06:00
+Location: Bangladesh 🇧🇩
+Timezone: UTC +06:00
 
 currently:
   - 🔭 Working on full-stack web applications
